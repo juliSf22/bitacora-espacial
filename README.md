@@ -18,3 +18,8 @@ en la primera parte del video hay una secuencia que intentaré recrear
 ### problemas
 
 bueno acá el problema fue masque todo conectar el lfo porque lo conecté como de 5 formas diferentes porque no me cuadraba, aparte le cambie el secuenciador porque el otro era muy pequeño, y ese nuevo apenas alcanzó para la secuencia, tambien me costó un poco reconocer las "notas" (demás que esas no són pero pues almenos da vibras parecidas)
+
+### objetivo 2
+en la siguiente parte, que no tiene mayor ciencia porque es el mismo pero con notas diferentes y ya XD
+
+<img width="739" height="407" alt="image" src="https://github.com/user-attachments/assets/460b69ea-ee0d-4259-9f1e-09bf96f83b10" />
